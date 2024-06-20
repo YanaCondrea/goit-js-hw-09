@@ -33,13 +33,7 @@ body {
 
 }
 
-/* .modal {
 
-  background: #fff;
-  width: 1440px;
-  height: 696px;
-
-} */
 .sl-wrapper{
 box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
   background: rgba(46, 47, 66, 0.8);
@@ -58,6 +52,3 @@ color: #fff !important;
   color: #fff !important;
 }
 
-/* .modal>img {
-  padding: 28px 164px;
-} */
