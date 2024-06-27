@@ -77,7 +77,7 @@ list.insertAdjacentHTML("afterbegin", createMurkup(images));
 function createMurkup(array) {
     return array.map(({ preview, original, description }) => `
   <li class="gallery-item">
-  <a class="gallery-link" href="${original}" onclick = "event.preventDefault()">
+  <a class="gallery-link" href="${original}">
     <img
       class="gallery-image"
       src="${preview}"
